@@ -1,0 +1,14 @@
+.env
+.next
+.DS_Store
+dist
+temp
+captchas
+public/sw.js
+workbox-*.js
+node_modules
+*.tsbuildinfo
+next-env.d.ts
+package-lock.json
+empty_classrooms.json
+arcade.db*
